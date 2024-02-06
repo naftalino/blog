@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jônatas</title>
+    <link>https://naftalino.github.io/tags/</link>
+    <description>Recent content in Tags on Jônatas</description>
+    <image>
+      <title>Jônatas</title>
+      <url>https://naftalino.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://naftalino.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Feb 2024 08:42:46 -0300</lastBuildDate>
+    <atom:link href="https://naftalino.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ENEM</title>
+      <link>https://naftalino.github.io/tags/enem/</link>
+      <pubDate>Mon, 05 Feb 2024 08:42:46 -0300</pubDate>
+      <guid>https://naftalino.github.io/tags/enem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>influencia</title>
+      <link>https://naftalino.github.io/tags/influencia/</link>
+      <pubDate>Mon, 05 Feb 2024 08:42:46 -0300</pubDate>
+      <guid>https://naftalino.github.io/tags/influencia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>redacao</title>
+      <link>https://naftalino.github.io/tags/redacao/</link>
+      <pubDate>Mon, 05 Feb 2024 08:42:46 -0300</pubDate>
+      <guid>https://naftalino.github.io/tags/redacao/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>tiktok</title>
+      <link>https://naftalino.github.io/tags/tiktok/</link>
+      <pubDate>Mon, 05 Feb 2024 08:42:46 -0300</pubDate>
+      <guid>https://naftalino.github.io/tags/tiktok/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
