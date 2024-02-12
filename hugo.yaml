@@ -1,7 +1,7 @@
 baseURL: "https://naftalino.github.io/"
 title: Jônatas
 paginate: 10
-theme: PaperMod
+theme: hugo-coder
 
 enableRobotsTXT: true
 buildDrafts: true
